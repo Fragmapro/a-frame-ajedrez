@@ -1,1 +1,1 @@
-commons deed de la licencia CC BY SA 4.0.
+ https://creativecommons.org/licenses/by/4.0/
